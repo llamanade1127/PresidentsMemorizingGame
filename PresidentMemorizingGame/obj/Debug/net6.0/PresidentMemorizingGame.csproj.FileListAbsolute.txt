@@ -1,0 +1,15 @@
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\bin\Debug\net6.0\PresidentMemorizingGame.exe
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\bin\Debug\net6.0\PresidentMemorizingGame.deps.json
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\bin\Debug\net6.0\PresidentMemorizingGame.runtimeconfig.json
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\bin\Debug\net6.0\PresidentMemorizingGame.dll
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\bin\Debug\net6.0\PresidentMemorizingGame.pdb
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\PresidentMemorizingGame.csproj.AssemblyReference.cache
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\PresidentMemorizingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\PresidentMemorizingGame.AssemblyInfoInputs.cache
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\PresidentMemorizingGame.AssemblyInfo.cs
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\PresidentMemorizingGame.csproj.CoreCompileInputs.cache
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\PresidentMemorizingGame.dll
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\refint\PresidentMemorizingGame.dll
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\PresidentMemorizingGame.pdb
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\PresidentMemorizingGame.genruntimeconfig.cache
+C:\Users\llama\RiderProjects\PresidentMemorizingGame\PresidentMemorizingGame\obj\Debug\net6.0\ref\PresidentMemorizingGame.dll
